@@ -29,7 +29,7 @@ a img { border: 0; }
 .left {   
   float: left;   
   margin-right: 10px;   
-  width: 100px;   
+  width: 105px;   
 }   
 .rightright {   
   float: rightright;   
@@ -76,11 +76,11 @@ body{line-height:1.5em}.woocommerce
 }
 
 #main-header,
-#main-header .et_mobile_menu{background-color:#ffcc00}}
+#main-header .et_mobile_menu{background-color:#9196a1}}
 h1,h2,h3,h4,h5,h6{font-family: Georgia, Times, 'Times New Roman', serif;}
 body,input,textarea,select{font-family: Georgia, Times, 'Times New Roman', serif;}
 
-#main-footer{ bottom:0;background-color:#ffcc00}
+#main-footer{ bottom:0;background-color:#9196a1}
 #main-footer .footer-widget h4{color:#ffe800}.footer-widget li:before{border-color:#ffe800}.bottom-nav,.bottom-nav a,.bottom-nav li.current-menu-item a{color:}
 
 #footer-info,
